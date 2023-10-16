@@ -1,0 +1,185 @@
+.Static{
+    box-shadow: 10px 10px;
+}
+
+.span{
+    color: red;
+}
+.container{
+    margin-top: 20px;
+    margin-left: 0px;
+    width: 400px;
+    height: 100px;
+}
+.imgcontainer{
+    padding-top: 100px;
+}
+.maincontainer{
+    display: grid;
+    padding-top: 50px;
+    grid-template-columns: 1fr 1fr;
+    height: 500px;
+}
+.I{
+    height: 120px;
+}
+.img{
+    border-radius: 20px;
+    padding: 5px;
+}
+.container2{
+    padding-top: 44px;
+}
+.icon{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 100%;
+    background-color: antiquewhite;
+    height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.P{
+    padding-left: 200px;
+}
+.Boxs{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+.container3{
+    background-color: whitesmoke;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    height: 200px;
+    margin: 20px;
+}
+.service{
+    width: 100%;
+    height: 500px;
+    background-color: aqua;
+    text-align: center;
+    padding: 80px;
+}
+.whysherise-main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 50px;
+}
+.left{
+    width: 100%;
+    margin: 5px;
+    height: 500px;
+    /* background-color: aqua; */
+
+}
+.right{
+    width: 100%px;
+    margin: 5px;
+    height: 500px;
+    background-color:cadetblue;
+
+}
+.reason1{
+    height: 150px;
+    /* background-color: blueviolet;  */
+ }
+ .heading1{
+    width: 5px;
+    /* background-color: aliceblue; */
+ }
+ 
+ .reason2{
+    height: 150px;
+    /* background-color: bisque; */
+ }
+ 
+ /* .heading2{
+
+    background-color: black;
+ }*/
+ .reason3{
+    height: 200px;
+    /* background-color: tomato; */
+ } 
+
+ .ourmentor-main{
+    width: 100%;
+    height: 500px;
+    margin-top: 50px;
+    /* background-color: aqua; */
+ }
+
+ .main{
+    padding-top: 60px;
+    height: 400px;
+    /* background-color:rgb(236, 236, 243) */
+ }
+ 
+ .const{
+    display: grid;
+    height: 300px;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* background-color: rgb(211, 208, 214); */
+ }
+ 
+ .quote1{
+    background-color: rgb(234, 227, 227);
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 10px 10px ;
+ }
+ .A{
+    height: 110px;
+    /* background-color: rgb(215, 220, 224); */
+ }
+ .O{
+    padding-left: 20px;
+    padding-top: 10px;
+ }
+ .quote2{
+    background-color: rgb(236, 240, 232);
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 10px 10px ;
+ }
+ .quote3{
+    background-color: rgb(168, 180, 181);
+    height: 250px;
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 10px 10px ;
+ } 
+
+ .our{
+    width: 60%;
+    height: 300px;
+    margin: 50px;
+    margin-left: 250px;
+    background-color: rgb(236, 234, 230);
+    padding-top: 40px;
+    padding-left: 150px;
+ }
+ .heading{
+    width: 80%;
+    height: 100px;
+    margin: 20px;
+    background-color: rgb(238, 215, 250);
+     padding-top: 50px;  
+ }
+ .sileder{
+    width: 400px;
+    height: 200px;
+    margin: 10px; 
+    /* background-color: blue; */
+ }
+ .btn1{
+    background-color: aqua;
+ }
+ .btn2{
+    background-color: aqua;
+ }
